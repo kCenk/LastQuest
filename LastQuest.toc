@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: LastQuest
+## Author: cannon
+## Notes: LastQuest is a simple WoW Classic addon that will display the last accepted Quest.
+## Version: 1.0.0
+## SavedVariablesPerCharacter: Quests, QuestIndex
+LastQuest.lua
